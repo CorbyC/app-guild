@@ -6,15 +6,15 @@ description: ""
 {% include JB/setup %}
 
 ### 1. Git the code
-In order to contribute you will need to [fork the repo](https://github.com/vivint-guilds/ux-guild/fork)
+In order to contribute you will need to [fork the repo](https://github.com/vivint-guilds/sord-guild/fork)
 
 Then clone the repo to your machine.
 
 ###### remember to change USERNAME to your GitHub username.
 
 ```bash
-$ git clone git@github.com:USERNAME/ux-guild.git
-$ cd ux-guild
+$ git clone git@github.com:USERNAME/sord-guild.git
+$ cd sord-guild
 ```
 
 ### 2. Run Jekyll Locally
@@ -24,12 +24,12 @@ In order to preview your blog locally you'll need to install the Jekyll ruby gem
 $ gem install jekyll
 ```
 
-If you run into a problem please consult the original [Jekyll installation documentation](http://jekyllrb.com/docs/installation/). You can also [create a support issue](https://github.com/vivint-guilds/ux-guild/issues/new) using GitHub Issues.
+If you run into a problem please consult the original [Jekyll installation documentation](http://jekyllrb.com/docs/installation/). You can also [create a support issue](https://github.com/vivint-guilds/sord-guild/issues/new) using GitHub Issues.
 
-Once the gem is installed you can navigate to your ux-guild directory. Once in the directory you'll run jekyll with server support:
+Once the gem is installed you can navigate to your sord-guild directory. Once in the directory you'll run jekyll with server support:
 
 ```bash
-$ cd ux-guild
+$ cd sord-guild
 $ jekyll serve
 ```
 
@@ -77,7 +77,7 @@ $ git commit -m "Add new content"
 $ git push origin master
 ```
 
-After you have pushed your changes then you will go to http://github.com/USERNAME/ux-guild and [create a pull request](https://help.github.com/articles/creating-a-pull-request/).
+After you have pushed your changes then you will go to http://github.com/USERNAME/sord-guild and [create a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 ### 6. Customize
 Jekyll-Bootstrap can be used as-is as a basic blogging platform. However there are plenty of ways to dig into deeper customization. The following outlines deeper Jekyll-Bootstrap customization techniques:

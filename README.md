@@ -1,4 +1,4 @@
-# UX Guild
+# SORD Guild
 
 This is where we will post news, announcements, notes from presentations, tutorials and etc.
 
