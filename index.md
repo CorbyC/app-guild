@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SORD Guild
+title: App Guild
 tagline: servicing with services!
 ---
 {% include JB/setup %}
@@ -15,7 +15,7 @@ tagline: servicing with services!
 
 ## Meetings
 
-We will meet every Thursday from 2:30pm - 3:30pm in Aristotle. The majority of meetings will follow our predetermined agenda. If you are interested in giving a lightening talk, a conference recap or a longer presentation please [let me know](https://github.com/vivint-guilds/sord-guild/issues).
+We will meet every Thursday from 2:30pm - 3:30pm in Aristotle. The majority of meetings will follow our predetermined agenda. If you are interested in giving a lightening talk, a conference recap or a longer presentation please [let me know](https://github.com/vivint-guilds/app-guild/issues).
 
 ## Agenda
 <!-- 2:00 - Welcome to Guild Meeting & Announcements  
@@ -35,10 +35,10 @@ The idea of lightning talks is to give several people the chance to spend 5 to 1
 * I need some help and advice
 
 ## Workshops
-Each week I will work on getting some sort of [tutorial or assignment]({{ BASE_PATH }}/workshops) out to the group, whether it is a link to a tutorial, project or something we come up with and one of us creates and posts here. I will work on making sure there is something for the beginner skill level and the intermediate/advanced skill level. If you have suggestions for these assignments [please let me know](https://github.com/vivint-guilds/sord-guild/issues).
+Each week I will work on getting some sort of [tutorial or assignment]({{ BASE_PATH }}/workshops) out to the group, whether it is a link to a tutorial, project or something we come up with and one of us creates and posts here. I will work on making sure there is something for the beginner skill level and the intermediate/advanced skill level. If you have suggestions for these assignments [please let me know](https://github.com/vivint-guilds/app-guild/issues).
 
 ## Suggestions and Forums
-If you would like to; hear someone speak on a certain subject, suggest a project that we work on as a guild or even make a changes to the guild in someway. Please [submit an issue](https://github.com/vivint-guilds/sord-guild/issues) and tag it appropriately.
+If you would like to; hear someone speak on a certain subject, suggest a project that we work on as a guild or even make a changes to the guild in someway. Please [submit an issue](https://github.com/vivint-guilds/app-guild/issues) and tag it appropriately.
 
 #### If you are not in the slack group go [sign up](https://vivintdev.slack.com/signup)
 

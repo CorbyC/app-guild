@@ -1,4 +1,4 @@
-# SORD Guild
+# App Guild
 
 This is where we will post news, announcements, notes from presentations, tutorials and etc.
 
